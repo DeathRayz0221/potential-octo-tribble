@@ -1,0 +1,129 @@
+BASIC DATA
+               1 in  = 2.54 cm
+               1 rad = 57.295780°
+                1 cm = 10 mm
+                1 in = 25.4 mm
+
+ Number of Stringers = 3 
+   Height of landing = 37.0 in = 939 mm
+        Thread depth = 11 in = 279 mm
+  Baluster thickness = 1.5 in = 38 mm
+     Baluster length = 45 in = 1143 mm
+
+STEPS
+Using rule: rise + run = 17.5 inches
+
+Using an average rise of 162 mm
+     Number of steps = 4
+        Actual rise  = 7.4 in = 187 mm
+         Actual run  = 10.1 in = 256 mm
+           Rise+run  = 17.5 in = 444 mm
+                       between bounds 17.0 and 17.5 in? True
+         2*rise+run  = 24.9 in = 632 mm
+                       between bounds 24.0 and 25.0 in? True
+           Rise*run  = 74.7 in^2 = 4.82e+04 mm^2
+                       between bounds 70.0 and 75.0 in^2? True
+        Thread depth = 11 in
+                       between bounds 10.1 and 11.1 in^2? True
+
+OTHER DIMENSIONS
+
+          Base angle = 0.632 rad = 36.2°
+        Stair extend = 40.4 in
+     Stringer length = 50.1 in
+
+ Number of balusters = 8
+           Gap width = 90 mm = 3.5 in
+                       gap between balusters < 100 mm? True
+
+BILL OF MATERIALS
+Note 1: all pressure-treated lumber
+Note 2: " means inches
+
+2"x12" boards
+  Stringers:   3 stringers 50.1" long
+
+2"x6" boards
+  Steps:       4 steps x 3 boards/step = 12 boards 36" long
+
+2"x2" boards
+  Balusters:   8 boards 45" long
+
+3/4" plywood
+  Risers:      3 steps x 7.40" = 22.2", 36" long
+               1 step, same size, at right angles
+  Rim joist:   20",  36" long
+
+4" railing
+  1 railing,   50.1" long
+
+Programmed by Edison Guillermo
+Date: Sat Jan 23 01:48:44 2016
+End of processing
+
+
+
+
+
+BASIC DATA
+               1 in  = 2.54 cm
+               1 rad = 57.295780°
+                1 cm = 10 mm
+                1 in = 25.4 mm
+
+ Number of Stringers = 3 
+   Height of landing = 39.5 in = 1003 mm
+        Thread depth = 11 in = 279 mm
+  Baluster thickness = 1.5 in = 38 mm
+     Baluster length = 45 in = 1143 mm
+
+STEPS
+Using rule: rise + run = 17.5 inches
+
+Using an average rise of 162 mm
+     Number of steps = 5
+        Actual rise  = 6.6 in = 167 mm
+         Actual run  = 10.9 in = 277 mm
+           Rise+run  = 17.5 in = 444 mm
+                       between bounds 17.0 and 17.5 in? True
+         2*rise+run  = 24.1 in = 611 mm
+                       between bounds 24.0 and 25.0 in? True
+           Rise*run  = 71.9 in^2 = 4.64e+04 mm^2
+                       between bounds 70.0 and 75.0 in^2? True
+        Thread depth = 11 in
+                       between bounds 10.9 and 11.9 in^2? True
+
+OTHER DIMENSIONS
+
+          Base angle = 0.543 rad = 31.1°
+        Stair extend = 54.6 in
+     Stringer length = 63.7 in
+
+ Number of balusters = 11
+           Gap width = 87 mm = 3.5 in
+                       gap between balusters < 100 mm? True
+
+BILL OF MATERIALS
+Note 1: all pressure-treated lumber
+Note 2: " means inches
+
+2"x12" boards
+  Stringers:   3 stringers 63.7" long
+
+2"x6" boards
+  Steps:       5 steps x 3 boards/step = 15 boards 36" long
+
+2"x2" boards
+  Balusters:   11 boards 45" long
+
+3/4" plywood
+  Risers:      4 steps x 6.58" = 26.3", 36" long
+               1 step, same size, at right angles
+  Rim joist:   20",  36" long
+
+4" railing
+  1 railing,   63.7" long
+
+Programmed by Edison Guillermo
+Date: Sat Jan 23 01:49:29 2016
+End of processing

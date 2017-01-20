@@ -1,0 +1,102 @@
+WELCOME TO SCRABBLE® TUTOR!
+'Scrabble' is a registered trade mark of Hasbro, Inc.
+
+Test your ability to find Scrabble words!
+
+Reading words from twl06.txt
+178691 words read: AA, AAH, AAHED, AAHING, AAHS, AAL, ...
+Choose one of the following and enter the letter:
+     a) change the number of random letters
+     b) change the time limit
+     c) try a new set of letters
+     q) quit
+
+a
+
+Enter int n so that 7 <= n < 9 for number of letters to play: 6
+*** 6 is too small
+
+Enter int n so that 7 <= n < 9 for number of letters to play: 9
+*** 9 is too big
+
+Enter int n so that 7 <= n < 9 for number of letters to play: 7
+Choose one of the following and enter the letter:
+     a) change the number of random letters
+     b) change the time limit
+     c) try a new set of letters
+     q) quit
+
+b
+
+Enter int n so that 1 <= n < 121 for seconds to guess words: 121
+*** 121 is too big
+
+Enter int n so that 1 <= n < 121 for seconds to guess words: 0
+*** 0 is too small
+
+Enter int n so that 1 <= n < 121 for seconds to guess words: two minutes
+*** two minutes is not an int
+
+Enter int n so that 1 <= n < 121 for seconds to guess words: 20
+Choose one of the following and enter the letter:
+     a) change the number of random letters
+     b) change the time limit
+     c) try a new set of letters
+     q) quit
+
+c
+Time limit: 20 seconds
+
+Enter a word made from letters in          S₁R₁U₁U₁A₁U₁T₁ sut
+
+Enter a word made from letters in          S₁R₁U₁U₁A₁U₁T₁ srut
+
+Enter a word made from letters in          S₁R₁U₁U₁A₁U₁T₁ trus
+
+Enter a word made from letters in          S₁R₁U₁U₁A₁U₁T₁ sat
+
+Enter a word made from letters in          S₁R₁U₁U₁A₁U₁T₁ tars
+
+Enter a word made from letters in          S₁R₁U₁U₁A₁U₁T₁ star
+
+Enter a word made from letters in          S₁R₁U₁U₁A₁U₁T₁ turs
+Invalid user words: SRUT, TRUS, TURS, SUT
+----------------------------------------------------------------------------------
+Valid User Words:
+                     S₁A₁T₁ (3)           T₁A₁R₁S₁ (4)           S₁T₁A₁R₁ (4)
+        
+Best word:                                T₁A₁R₁S₁ (4)
+----------------------------------------------------------------------------------
+Valid words:
+                 S₁U₁T₁R₁A₁ (5)               T₁A₁ (2)             T₁A₁S₁ (3)
+                     S₁A₁U₁ (3)             R₁U₁T₁ (3)           S₁T₁A₁R₁ (4)
+                     U₁T₁S₁ (3)             A₁R₁T₁ (3)           T₁S₁A₁R₁ (4)
+                   R₁A₁T₁S₁ (4)               A₁S₁ (2)           U₁R₁U₁S₁ (4)
+                   S₁U₁R₁A₁ (4)           T₁A₁R₁S₁ (4)             A₁R₁S₁ (3)
+                     T₁A₁U₁ (3)           U₁T₁A₁S₁ (4)           R₁U₁T₁S₁ (4)
+                       A₁T₁ (2)               U₁T₁ (2)           T₁A₁U₁S₁ (4)
+                   U₁R₁S₁A₁ (4)             R₁A₁S₁ (3)           R₁U₁S₁T₁ (4)
+                     R₁A₁T₁ (3)             S₁A₁T₁ (3)               A₁R₁ (2)
+                       U₁S₁ (2)             T₁A₁R₁ (3)           A₁R₁T₁S₁ (4)
+                     U₁T₁A₁ (3)
+Best word:                              S₁U₁T₁R₁A₁ (5)
+Choose one of the following and enter the letter:
+     a) change the number of random letters
+     b) change the time limit
+     c) try a new set of letters
+     q) quit
+
+end
+
+Invalid response 'END'; try again
+Choose one of the following and enter the letter:
+     a) change the number of random letters
+     b) change the time limit
+     c) try a new set of letters
+     q) quit
+
+q
+
+Programmed by Edison Guillermo from Instructors
+Date: Fri Mar 11 18:43:07 2016
+End of processing
